@@ -1,3 +1,6 @@
 [submodule "BMD-HS-Dataset"]
 	path = BMD-HS-Dataset
 	url = git@github.com:mHealthBuet/BMD-HS-Dataset.git
+[submodule "AudioMNIST"]
+	path = AudioMNIST
+	url = git@github.com:soerenab/AudioMNIST.git
